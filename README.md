@@ -1,5 +1,4 @@
 # TCP-socket-programming-in-C-
-# UDP-Socket-Programming-in-C-
 Untuk compile dan run listener :  - gcc -o tserver tserver.c
                                   - ./tserver
 Untuk compile dan run talker   :  - gcc -o tclient tclient.c
